@@ -37,6 +37,6 @@ def retrieve_first_element_from_array(array)
 end
 
 def retrieve_last_element_from_array(array)
-  array = [1,2,"am"]
-  index_number = array[2]
+  array = [1,2,"arrays!"]
+  return array[2]
 end
